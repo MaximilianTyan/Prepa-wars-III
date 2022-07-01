@@ -1,0 +1,3 @@
+controls: WASD
+fullscreen: True
+resolution: 854x480

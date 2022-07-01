@@ -1,0 +1,6 @@
+posX: -43
+posY: -16
+mapActu: 0
+skinActu: Mskin
+sex: M
+time: 3884.4888269901276
